@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\bin\Debug\DoubleIt().exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\obj\Debug\DoubleIt().csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\bin\Debug\DoubleIt().exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\bin\Debug\DoubleIt().pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\obj\Debug\DoubleIt().exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleIt()\DoubleIt()\obj\Debug\DoubleIt().pdb
